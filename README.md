@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Vergil's Devil Trigger](data/dt.png)
+![Vergil's Devil Trigger](https://tenor.com/view/where-is-your-motivation-where%27s-your-motivation-wheres-your-motivation-vergil-vergil-dmc-gif-4153196228805105292)
 <!--
 **yamatoxkatana/yamatoxkatana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
