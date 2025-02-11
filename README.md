@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Vergil's Devil Trigger]('data/dt.png')
+![Vergil's Devil Trigger](data/dt.png)
 <!--
 **yamatoxkatana/yamatoxkatana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
