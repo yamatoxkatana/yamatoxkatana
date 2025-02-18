@@ -22,4 +22,4 @@ I am a passionate engineer :fire: with extensive experience in creating dynamic 
 
 Feel free to connect with me for any web development projects or just to chat about our shared interests!
 
-:email: **Contact:** yamatoxkatana@gmail.com
+:email: **Email:** yamatoxkatana@gmail.com
