@@ -14,7 +14,7 @@ I am a passionate engineer :fire: with extensive experience in creating dynamic 
 ## Hobbies 🎨
 - **Gaming:** Enjoys playing strategy and role-playing games.
 - **Photography and Art:** Loves capturing landscapes, urban scenes, and creating digital art.
-- **Reading:** Avid reader of science fiction and mystery novels.
+- **Reading:** Avid reader of science fiction, philosophy books and mystery novels.
 - **Travel:** Enjoys exploring new cultures and destinations.
 - **Chess:** Passionate about playing and improving at chess.
 
